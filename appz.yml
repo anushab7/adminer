@@ -15,7 +15,6 @@ deploy:
     replicas: 1
     port:
     - 8080
-
   
 properties:
-    revision : 28
+    revision : 29
