@@ -20,4 +20,4 @@ properties:
     MFA_PROVIDER: GA
     AUTHSECRET:
        vault: ADMINER_AUTHSECRET
-    revision : 31
+    revision : 32
