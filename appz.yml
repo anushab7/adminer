@@ -5,7 +5,7 @@ app:
 
 build:
     version: 4.8
-    env: DEV
+    env: QA
     build_file: none
     output_files: output/*.zip
     image_template: adminer-4.8
@@ -18,7 +18,7 @@ deploy:
 
   
 properties:
-    MFA_PROVIDER: GA
-    AUTHSECRET:
-      vault: ADMINER_AUTHSECRET
+    #MFA_PROVIDER: GA
+    #AUTHSECRET:
+     # vault: ADMINER_AUTHSECRET
     revision : 37
