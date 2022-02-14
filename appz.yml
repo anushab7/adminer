@@ -20,4 +20,4 @@ properties:
     MFA_PROVIDER: NA
     #AUTHSECRET:
     #   vault: ADMINER_AUTHSECRET
-    revision : 37
+    revision : 38
