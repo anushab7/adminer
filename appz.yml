@@ -18,6 +18,6 @@ deploy:
   
 properties:
     MFA_PROVIDER: NA
-    AUTHSECRET:
-       vault: ADMINER_AUTHSECRET
+    #AUTHSECRET:
+     #  vault: ADMINER_AUTHSECRET
     revision : 40
